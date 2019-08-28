@@ -10,6 +10,8 @@ There is only one simple rule:
 
 ## Original information ##
 This original address is: https://android.googlesource.com/platform/packages/inputmethods/OpenWnn/
+The original copyright informaion is in the files. 
+The original license is Apache License 2.0.
 
 ## Coding Standard ##
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
